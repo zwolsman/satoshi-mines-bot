@@ -1,5 +1,13 @@
-#satoshi-mines-bot
+## satoshi-mines-bot
 A simple NodeJS script to run.
 
-Change your player id in `api.js` to use yours.
-Run it with `$ node .\index.js` and see the magic
+## Configuration
+change the player_hash in `api.js` to match yours.
+
+## Installation
+`$ git clone https://github.com/zwolsman/satoshi-mines-bot.git`
+`$ cd satoshi-mines-bot`
+`$ npm install`
+`$ node index.js`
+
+Sit back and relax, let the bot play for you.
