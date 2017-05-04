@@ -2,12 +2,15 @@
 A simple NodeJS script to run.
 
 ## Configuration
-change the player_hash in `api.js` to match yours.
+change the `player_hash` in `api.js` to match yours.
 
 ## Installation
 `$ git clone https://github.com/zwolsman/satoshi-mines-bot.git`
+
 `$ cd satoshi-mines-bot`
+
 `$ npm install`
+
 `$ node index.js`
 
 Sit back and relax, let the bot play for you.

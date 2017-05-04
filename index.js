@@ -21,9 +21,9 @@ co(function* () {
     let count = 0
     while (bank >= MIN_BET && bank < target) {
 
-        let bet = bank * 0.025
-        if(bet < 100) bet = 100
-        //let bet = kelly(bank)
+        //let bet = bank * 0.025
+        //if(bet < 100) bet = 100
+        let bet = kelly(bank)
      
         let game = yield api.create(bet)
         if(game.game_hash == null) 
