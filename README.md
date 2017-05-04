@@ -1,5 +1,6 @@
 ## satoshi-mines-bot
 A simple NodeJS script to run.
+
 ![screenshot](https://lensert.com/HyDQXodyZ)
 ## Configuration
 change the `player_hash` in `api.js` to match yours.
