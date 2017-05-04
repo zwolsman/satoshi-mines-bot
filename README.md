@@ -1,6 +1,6 @@
 ## satoshi-mines-bot
 A simple NodeJS script to run.
-
+![screenshot](https://lensert.com/HyDQXodyZ)
 ## Configuration
 change the `player_hash` in `api.js` to match yours.
 
@@ -14,3 +14,4 @@ change the `player_hash` in `api.js` to match yours.
 `$ node index.js`
 
 Sit back and relax, let the bot play for you.
+
