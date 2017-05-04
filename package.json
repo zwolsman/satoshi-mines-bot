@@ -1,0 +1,23 @@
+{
+  "name": "satoshi-api",
+  "version": "1.0.0",
+  "description": "A satoshi mines api",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "co": "^4.6.0",
+    "co-request": "^1.0.0",
+    "random-int": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "satoshi",
+    "mines",
+    "api"
+  ],
+  "author": "Marvin",
+  "license": "ISC"
+}
